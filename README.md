@@ -26,3 +26,13 @@ There is no support supplied or guaranteed for the PCB. I have built it and it w
 ## PCB image
 
 ![Texel v1.1](texel-v1.1.png)
+
+## About the Texel sheep
+
+The Texel sheep comes from the island of Texel, off the northern Dutch coast.
+
+It is a hardy stock and a great meat breed, finding favour in NZ, Australia, and the UK.
+
+It is a white-faced breed with no wool on the head or legs. It has a short, wide face with a black nost and widely placed, short ears and black hooves.
+
+They have exceptional muscle development and lean fat.
