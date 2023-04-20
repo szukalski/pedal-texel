@@ -15,6 +15,7 @@ There is no support supplied or guaranteed for the PCB. I have built it and it w
 
 ## Build notes
 
+* There is no on-board LED. Take the positive (+) output at the bottom of the board, connect it to a CLR of your choice (start with 4K7) and then to the LED and from LED to your footswitch. This is documented around the interwebs.
 * Use a SMD for the JFET. The uniformity of SMD components is better than through-hole. The board is marked for 2N5457 but many will work (2N5246, J201, 2SK30A-D). Look for a Vp of ~1.4V
 * The NPN Germanium transistor is not too picky. You can tweak the 39K resistor to adjust the collector voltage. I used 2N1304 instead of the original 2N1308, but MP38A have also been used to great effect.
 * Voice:
